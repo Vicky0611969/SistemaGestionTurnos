@@ -1,1 +1,2 @@
-* Sistema Gestión de Turnos - Centro Salud 🩺
+* **Sistema Gestión de Turnos – Centro de Salud** 🩺
+___________
