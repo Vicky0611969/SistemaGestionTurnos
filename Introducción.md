@@ -6,10 +6,16 @@ Es importante porque permite crear programas mas grandes y complejos, y asimismo
 
 ## 🟢 Los cuatro fundamentos de POO
 ### * Encapsulación:
-kbhkhvkgu
+Proceso de ocultar la implementación interna de un objeto y exponer sólo las interfaces públicas.
+
 ### * Abstracción:
+Consiste en simplificar la complejidad del munfo real modelando solo los aspectos esenciales relevantes para el sistema
+
 ### * Herencia:
+Mecanismo que permite que un objeto herede propiedades y comportamientos de otro objeto.
+
 ### * Polimorfismo:
+se refiere a la capacidad de los objetos de una mmisma jerarquía de clases para responder de manera diferente a un mismo mensaje.
 
 ## 🟢 Requisitos iniciales del sistema
 
