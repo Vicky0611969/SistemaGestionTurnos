@@ -4,7 +4,7 @@ Es un sistema digitalizado creado para gestionar y organizar turnos médicos del
 👍🏻Confirmación de turnos a pacientes y médicos   
 👍🏻Evitar pérdida de turnos  
 👍🏻Historial de turnos de pacientes  
-👍🏻Verificacar disponibilidad correcta de los especialistas  
+👍🏻Verificar disponibilidad correcta de los especialistas  
 👍🏻Datos personales completos de pacientes y médicos de manera protegida
 
 ## Anexos 📚
