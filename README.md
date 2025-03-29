@@ -9,4 +9,4 @@ Es un sistema digitalizado creado para gestionar y organizar turnos médicos del
 
 ## Anexos 📚
 Es esta sección se podrá verificar de una manera mas detallada lo mencionado anteriormente   
-🗂️ [Anexos](SistemaGestiónTurnos/Anexos.md) 
+🗂️ [Anexos](Anexo.md) 
