@@ -8,4 +8,5 @@ Es un sistema digitalizado creado para gestionar y organizar turnos médicos del
 👍🏻Datos personales completos de pacientes y médicos de manera protegida
 
 ## Anexos 📚
-Es esta sección se podrá verificar de una manera mas detallada lo mencionado anteriormente 
+Es esta sección se podrá verificar de una manera mas detallada lo mencionado anteriormente   
+🗂️ [Anexos](docs/Anexos.md) 
