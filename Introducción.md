@@ -92,3 +92,7 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 
 
 ## 🟢 Boceto inicial del diseño de clases
+
+![image](https://github.com/user-attachments/assets/9856fe64-e583-41f4-8de0-8bda4b38699e)
+
+https://excalidraw.com/#json=pxUz9SxxAWJpsIXj4zQl7,piD_K828rcSiDP7xMUJuKw
