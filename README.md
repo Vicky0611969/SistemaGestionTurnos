@@ -1,7 +1,7 @@
 ![WhatsApp Image 2025-03-14 at 18 57 51](https://github.com/user-attachments/assets/1cd4f8d7-29d2-456b-a5ed-b9537ead7173)  
 **Alumno:** Imoberdorff Victoria  
 **Matrícula:** 119707  
-**Profesor:** Matías Velazquez  
+**Profesor:** Matías Velasquez  
 **Materia:** Diseño Orientado a Objetos  
 **Carrera:** Tecnicatura Universitaria en Programación de Sistemas  
 **Año:** 2025
