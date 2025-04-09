@@ -1,5 +1,3 @@
-# INTRODUCCIÓN
-
-## 🖇️Diseño orientado a objetos
+# Anexos
 
 [Introducción](Introducción.md) 📄 
