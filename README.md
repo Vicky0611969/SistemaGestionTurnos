@@ -18,4 +18,4 @@ Es un sistema digitalizado creado para gestionar y organizar turnos médicos del
 
 ## Diagramas y Diseños 📚
 
-🗂️ [Anexos](Anexo.md) 
+🗂️ [Anexos](anexos.md) 
