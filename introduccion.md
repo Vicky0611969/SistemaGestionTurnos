@@ -1,10 +1,10 @@
 # Anexo - Introducción al Diseño Orientado a Objetos
 
 ## 🟢 Descripción del paradigma orientado a objetos
-La programación orientada a objetos es un modelo que se basa en la creación de objetos, los cuales tienen información en forma de campos, para organizar la estructura de un programa. Los objetos son capaces de interacturar y modificar los valores contenidos en sus campos o atributos a través de sus métodos.
-Es importante porque permite:
--Modularidad: que es la capacidad de divir un programa en modulos independientes, donde cada uno de ellos se enfoca en una tarea especifica, facilitando la reutilización y çcomprensión
--Reutilización: la reutilización de un codigo permite ahorrar tiempo a largo plazo, evita reinventar la rueda y ayuda a esxribir código mas limpio
+La programación orientada a objetos es un modelo que se basa en la creación de objetos, los cuales tienen información en forma de campos, para organizar la estructura de un programa. Los objetos son capaces de interacturar y modificar los valores contenidos en sus campos o atributos a través de sus métodos.  
+Es importante porque permite:  
+-Modularidad: que es la capacidad de divir un programa en modulos independientes, donde cada uno de ellos se enfoca en una tarea especifica, facilitando la reutilización y çcomprensión  
+-Reutilización: la reutilización de un codigo permite ahorrar tiempo a largo plazo, evita reinventar la rueda y ayuda a esxribir código mas limpio  
 -Mantenimiento: Los cambios de las clases padre se propagan automaticamente en las clases hijas
   
 ## 🟢 Los cuatro fundamentos de POO  
