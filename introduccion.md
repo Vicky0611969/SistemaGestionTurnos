@@ -1,4 +1,4 @@
-# PROGRAMACIÓN ORIENTADA A OBJETOS
+# Anexo - Inreoducción al Diseño Orientado a Objetos
 
 ## 🟢 Descripción del paradigma orientado a objetos
 La programación orientada a objetos es un modelo que se basa en la creación de objetos, los cuales tienen información en forma de campos, para organizar la estructura de un programa.  
