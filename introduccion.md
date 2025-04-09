@@ -43,9 +43,12 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Recepcionista y paciente  
 ■ Descripción: El paciente desea solicitar un turno por primera vez en nuestro Centro de Salud  
 ■ Flujo principal de eventos:  
-    a) El paciente se comunica telefonicamente con el centro de salud  
-    b) La recepcionista le solicita sus datos personales necesarios para agregarlo al sistema  
-    c) Una vez agregados los datos, guarda la información y genera el nuevo paciente  
+    a) El paciente se comunica telefonicamente con el centro de salud    
+    b) La recepcionista ingresa al sistema de turnos y va a la sección de Registrar paciente    
+    c) La recepcionista le solicita sus datos personales necesarios para agregarlo al sistema    
+    d) Una vez agregados los datos, confirma el ingreso del nuevo paciente  
+    e) El sistema genera el nuevo paciente  
+    f) El nuevo paciente se guardo exitosamente  
 ■ Precondiciones: Que sea la primera vez que se registre en el centro  
 ■ Postcondiciones: Que quede guardado correctamente  
 
@@ -53,10 +56,14 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Recepcionista y paciente  
 ■ Descripción: El paciente desea solicitar un turno   
 ■ Flujo principal de eventos:  
-    a) El paciente se comunica telefonicamente con el centro de salud para solicitar un turno    
-    b) La recepcionista le consulta con que especialista desea atenderse    
-    c) La recepcionista verifica disponibilidad del medico y le indica al paciente fecha y horario  
-    d) El paciente acepta y toma el turno  
+    a) El paciente se comunica telefonicamente con el centro de salud para solicitar un turno      
+    b) La recepcionista ingresa a la sección de turnos  
+    c) La recepcionista le consulta con que especialista desea atenderse      
+    d) El paciente le indica especialidad y médico que desea  
+    e) La recepcionista verifica disponibilidad del medico y le indica al paciente fecha y horario 
+    f) El paciente acepta y toma el turno  
+    g) La recepcionista confirma la solicitud  
+    h) El sistema guardo exitosamente el turno  
 ■ Precondiciones: Que el paciente no tenga otro turno el mismo dia y horario    
 ■ Postcondiciones: Que quede asignado el turno correctamente
 
@@ -65,9 +72,12 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Paciente  
 ■ Descripción: El paciente desea consultar sus turnos   
 ■ Flujo principal de eventos:  
-    a) El paciente ingresa a la web o app del centro          
-    b) Coloca sus datos de ingreso  
-    c) Observa los turnos que posee  
+    a) El paciente ingresa a la web o app del centro            
+    b) El paciente se dirige a la opción de ingesar como paciente  
+    c) Coloca sus datos de ingreso  
+    d) Se dirige a la sección Mis Turnos  
+    e) Observa los turnos que posee  
+    f) Cierra su sesión en el sistema  
 ■ Precondiciones: Que este ingresado al sistema  
 ■ Postcondiciones: Que haya verificado sus turnos correctamente  
 
@@ -76,10 +86,12 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Medico  
 ■ Descripción: El especialista desea consultar los turnos que le fueron solicitados   
 ■ Flujo principal de eventos:  
-    a) El medico ingresa al sistema        
-    b) Coloca sus datos de ingreso  
-    c) Ingrese a su agenda  
-    c) Observa los turnos que le fueron solicitados  
+    a) El medico ingresa al sistema          
+    b) El medico se digire a la opcion de ingreso como especialista  
+    c) Coloca sus datos de ingreso    
+    d) Ingrese a la sección de su agenda    
+    e) Observa los turnos que le fueron solicitados      
+    f) Cierra su sesión en el sistema  
 ■ Precondiciones: Que este ingresado al sistema  
 ■ Postcondiciones: Que se muestren los turnos que le solicitaron correctamente 
 
@@ -87,9 +99,13 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Paciente y Recepcionista   
 ■ Descripción: El paciente desea cancelar un turno       
 ■ Flujo principal de eventos:    
-    a) El paciente se comunica con el centro            
-    b) La recepcionista ingresa al turno que desea cancelar el paciente  
-    c) Cancela dicho turno  
+    a) El paciente se comunica con el centro              
+    b) La recepcionista atiende el llamado y consulta a que se debe  
+    c) El paciente refiere que desea cancelar un turno  
+    d) La recepcionista ingresa al sistema y coloca datos del paciente  
+    e) La recepcionista colsulta cual turno desea cancelar y confirma la cancelación  
+    f) El sistema cancelo el turno  
+    g) El sistema informa la cancelación al paciente y especialista  
 ■ Precondiciones: Que el paciente tenga ese turno asignado  
 ■ Postcondiciones: Que se haya cancelado correctamente 
 
