@@ -95,5 +95,5 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 
 ![image](https://github.com/user-attachments/assets/9856fe64-e583-41f4-8de0-8bda4b38699e)
 
-[Boceto](https://excalidraw.com/#json=wY5_Da2yCwpzxg635_dOV,OFRXlQF0iPA6owqA1LP2ww)
+[Boceto](https://drive.google.com/file/d/1MWAtHQqKNu4NMFF61g8ZkxP1FhBr2OJA/view?usp=sharing)
 
