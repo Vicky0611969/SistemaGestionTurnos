@@ -18,6 +18,6 @@ Es un sistema digitalizado creado para gestionar y organizar turnos médicos del
 
 ## Diagramas y Diseños 📚
 
-🗂️ [Anexos](anexos.md) 
-🗂️ [Diagramas UML](diagramasUML.md) 
-🗂️ [Herramientas Agile](herramientas_agile.md) 
+🗂️ [Anexos](anexos.md)           
+🗂️ [Diagramas UML](diagramasUML.md)           
+🗂️ [Herramientas Agile](herramientas_agile.md)           
