@@ -60,7 +60,7 @@ Se debe contener la información de paciente y medico con acceso solo a personal
     b) La recepcionista ingresa a la sección de turnos  
     c) La recepcionista le consulta con que especialista desea atenderse      
     d) El paciente le indica especialidad y médico que desea  
-    e) La recepcionista verifica disponibilidad del medico y le indica al paciente fecha y horario 
+    e) La recepcionista verifica disponibilidad del medico y le indica al paciente fecha y horario   
     f) El paciente acepta y toma el turno  
     g) La recepcionista confirma la solicitud  
     h) El sistema guardo exitosamente el turno  
