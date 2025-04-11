@@ -115,5 +115,5 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ![Boceto](https://github.com/user-attachments/assets/a2b8cfbe-6cfb-46f6-992c-b2a7b19aee3c).
 
 
-[Boceto](https://drive.google.com/file/d/1MLuD-X1kUjxNGY4MmdLefEtTYvr65AMh/view?usp=sharing)
+[Boceto](https://drive.google.com/file/d/1xY6tKDGEOp5uHEC8Z91a7KsgIuqSwqsc/view?usp=sharing)
 
