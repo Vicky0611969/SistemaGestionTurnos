@@ -7,7 +7,7 @@
 * Caso de Uso 2 - Solicitar Turno  
 
   ![Caso Solicitar Turno](https://github.com/user-attachments/assets/a196726b-e5a1-411e-91ef-cbc51c99f45e)  
-  [Solicitar Turno](https://drive.google.com/file/d/1TEHt_hNyMGmfRI__DRzqqOsh9-6KcJ0K/view?usp=sharing)  
+  [Solicitar Turno](https://drive.google.com/file/d/1TEHt_hNyMGmfRI__DRzqqOsh9-6KcJ0K/view?usp=sharing)    
 
 * Caso de Uso 3 - Historial Turnos Paciente
   ![Caso Historial Paciente](https://github.com/user-attachments/assets/440ad376-de75-4a50-9df0-d195e8325ac7)
