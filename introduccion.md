@@ -65,7 +65,7 @@ Se debe contener la información de paciente y medico con acceso solo a personal
     g) La recepcionista le consulta datos para ingresar a su registro  
     h) La recepcionista confirma la solicitud  
     i) El sistema guardo exitosamente el turno  
-■ Precondiciones: Que el paciente no tenga otro turno el mismo dia y horario    
+■ Precondiciones: Que el paciente este registrado en el sistema      
 ■ Postcondiciones: Que quede asignado el turno correctamente
 
 
