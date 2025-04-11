@@ -39,7 +39,7 @@ Se debe obtener un historial de los turnos de cada paciente
 Se debe contener la información de paciente y medico con acceso solo a personal autorizado  
 
 ## 🟢 Casos de uso
-### 1) Ingresar nuevo paciente:    
+### 1) Registrar paciente:    
 ■ Actor(es): Recepcionista y paciente  
 ■ Descripción: El paciente desea solicitar un turno por primera vez en nuestro Centro de Salud  
 ■ Flujo principal de eventos:  
