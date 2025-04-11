@@ -112,7 +112,7 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 
 ## 🟢 Boceto inicial del diseño de clases
 
-![Boceto](https://github.com/user-attachments/assets/6444163e-f564-46fd-b31d-103aff60c27c)
+![Boceto](https://drive.google.com/file/d/1MLuD-X1kUjxNGY4MmdLefEtTYvr65AMh/view?usp=sharing)
 
-[Boceto](https://drive.google.com/file/d/1XbYZfJg_lY5-jVPZUw5s_GPP_yjA2XGb/view?usp=sharing)
+[Boceto](https://drive.google.com/file/d/1MLuD-X1kUjxNGY4MmdLefEtTYvr65AMh/view?usp=sharing)
 
