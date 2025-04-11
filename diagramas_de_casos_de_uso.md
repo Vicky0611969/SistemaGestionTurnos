@@ -10,7 +10,7 @@
   [Solicitar Turno](https://drive.google.com/file/d/1TEHt_hNyMGmfRI__DRzqqOsh9-6KcJ0K/view?usp=sharing)    
 
 * Caso de Uso 3 - Historial Turnos Paciente
-  ![Caso Historial Paciente](https://github.com/user-attachments/assets/440ad376-de75-4a50-9df0-d195e8325ac7)
+  ![Caso Historial Paciente](https://github.com/user-attachments/assets/440ad376-de75-4a50-9df0-d195e8325ac7)  
    [Historial Turnos Paciente](https://drive.google.com/file/d/1jfI7F_JYBzHeBArVWPzEVBiGFDfOdw8d/view?usp=sharing)
 
 * Caso de Uso 4 - Historial Turnos Especialista
