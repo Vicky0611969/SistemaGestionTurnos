@@ -8,8 +8,9 @@
   ![Caso Solicitar Turno](https://github.com/user-attachments/assets/b5f48b67-e2fc-4131-80c6-6bf4575306f3) 
       
 
-* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/1jfI7F_JYBzHeBArVWPzEVBiGFDfOdw8d/view?usp=sharing)  
-  ![Caso Historial Paciente](https://github.com/user-attachments/assets/440ad376-de75-4a50-9df0-d195e8325ac7)  
+* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/12sbOE9fYkvWZwHGKN-vQE6kmoU0G36Wh/view?usp=sharing)  
+  ![Caso Historial Paciente](https://github.com/user-attachments/assets/2add1292-cd36-4562-be0f-07e59eeef05e)
+
   
 * [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/1Fd7EW2Wv0yzs3-IfTqUsbj38rKto9nyx/view?usp=sharing)
   ![Caso Historial Especialista](https://github.com/user-attachments/assets/a6fcaa74-0b7a-49e6-9ab6-ef202c495095)
