@@ -4,9 +4,9 @@
  ![Caso Registrar Paciente](https://github.com/user-attachments/assets/233b3ffc-dd4e-464d-9d7f-c9338d6c050b)
 
 
-* [Caso de Uso 2 - Solicitar Turno](https://drive.google.com/file/d/1TEHt_hNyMGmfRI__DRzqqOsh9-6KcJ0K/view?usp=sharing)     
-  ![Caso Solicitar Turno](https://github.com/user-attachments/assets/a196726b-e5a1-411e-91ef-cbc51c99f45e)  
-     
+* [Caso de Uso 2 - Solicitar Turno](https://drive.google.com/file/d/1dprti9ooosDpsC04Yk2CEc2pW7qGbbp5/view?usp=sharing)     
+  ![Caso Solicitar Turno](https://github.com/user-attachments/assets/b5f48b67-e2fc-4131-80c6-6bf4575306f3) 
+      
 
 * [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/1jfI7F_JYBzHeBArVWPzEVBiGFDfOdw8d/view?usp=sharing)  
   ![Caso Historial Paciente](https://github.com/user-attachments/assets/440ad376-de75-4a50-9df0-d195e8325ac7)  
