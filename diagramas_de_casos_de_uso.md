@@ -8,13 +8,13 @@
   ![Caso Solicitar Turno](https://github.com/user-attachments/assets/b5f48b67-e2fc-4131-80c6-6bf4575306f3) 
       
 
-* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/14-y1xi9gNYDkYcajpgRZRA-9SSZg4aDG/view?usp=sharing)  
-  ![Caso Historial Especialista](https://github.com/user-attachments/assets/f3da9b7b-ee16-4e4c-84a6-3cb0de6eb7ea)
+* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/12sbOE9fYkvWZwHGKN-vQE6kmoU0G36Wh/view?usp=sharing)  
+ ![Caso Historial Paciente](https://github.com/user-attachments/assets/15908a1d-cb3f-4103-a315-9abe678e2082)
 
   
-* [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/1Fd7EW2Wv0yzs3-IfTqUsbj38rKto9nyx/view?usp=sharing)
-  ![Caso Historial Especialista](https://github.com/user-attachments/assets/a6fcaa74-0b7a-49e6-9ab6-ef202c495095)
-  
+* [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/14-y1xi9gNYDkYcajpgRZRA-9SSZg4aDG/view?usp=sharing)
+ ![Caso Historial Especialista](https://github.com/user-attachments/assets/636de1de-7dc1-41a5-8f35-43533dc5419f)
+
 * [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/1MM-_3q9_Fl9HAq4J0jQ_5omsgHcM42d1/view?usp=sharing)  
   ![Caso Cancelar Turno](https://github.com/user-attachments/assets/3febd67f-6eae-499a-823a-19324191c1b8)
   
