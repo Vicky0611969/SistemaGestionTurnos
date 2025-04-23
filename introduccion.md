@@ -44,8 +44,8 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Descripción: El paciente desea solicitar un turno por primera vez en nuestro Centro de Salud  
 ■ Flujo principal de eventos:  
     a) El paciente se comunica telefonicamente con el centro de salud    
-    b) La recepcionista ingresa al sistema de turnos y va a la sección de Registrar paciente    
-    c) La recepcionista le solicita sus datos personales necesarios para agregarlo al sistema    
+    b) La recepcionista ingresa al sistema de turnos y selecciona Registrar paciente    
+    c) La recepcionista le solicita y carga los datos personales del paciente en el sistema.      
     d) Una vez agregados los datos, confirma el ingreso del nuevo paciente  
     e) El sistema genera el nuevo paciente  
     f) El nuevo paciente se guardo exitosamente  
