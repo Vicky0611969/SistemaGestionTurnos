@@ -8,5 +8,8 @@ Un ejemplo de la vida real, puede ser un sistema de calificaciones de Alumnos, l
 
 ## Estructura de clases
 
+![LSP](https://github.com/user-attachments/assets/03e31a2f-9267-4fca-85b7-03f2868b7d5e)    
+[LSP](https://drive.google.com/file/d/1BrE78pC0ZBtBPN-36rxTq8uImEq6D-WU/view?usp=sharing)
+
 
 
