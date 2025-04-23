@@ -8,6 +8,9 @@ Un ejemplo de la vida real, puede ser cuando recibimos una notificación de conf
 
 ## Estructura de clases  
 
+![OCP](https://github.com/user-attachments/assets/1bac97f5-e18e-4bde-8633-956ada1c5689)  
+
+[OCP](https://drive.google.com/file/d/1SdUhDH4IlcePEO94dtXZfqtB1DyLaTi_/view?usp=sharing)
 
 
 
