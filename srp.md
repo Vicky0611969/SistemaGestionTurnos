@@ -8,7 +8,7 @@ Un ejemplo del mundo real podemos mencionar a un encargado de edificio. El mismo
 
 # Estructura de clases  
 ![SRP](https://github.com/user-attachments/assets/02e704c8-4b91-458a-925a-5796f4e801cf)
-[SRP](https://drive.google.com/file/d/17uYyJn_6kcsq2r6DFEjtZc7SG9PZx7cU/view?usp=sharing).
+[SRP](https://drive.google.com/file/d/17uYyJn_6kcsq2r6DFEjtZc7SG9PZx7cU/view?usp=sharing)
 
 
 
