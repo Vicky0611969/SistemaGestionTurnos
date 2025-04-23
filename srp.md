@@ -1,5 +1,5 @@
 ## Principio de Responsabilidad Única (SRP)
-Este principio se puede definir como principio de diseño, donde cada clase debe tener una única responsabilidad, y debe tener solo una razón para cambiar, si debemos modificarla por cada problema que ocurra, se esta violando el  principio.
+Este principio se puede definir como principio de diseño, donde cada clase debe tener una única responsabilidad, y debe tener solo una razón para cambiar, si debemos modificarla por cada problema que ocurra, se esta violando el  principio.  
 Por ejemplo, en nuestro sistema la clase recepcionista tiene mas de una responsabilidad y si deseamos modificar o quitar alguna de sus responsabilidades, deberiamos modificar la clase principal.
 
 # Motivación
