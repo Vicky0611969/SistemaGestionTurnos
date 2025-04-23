@@ -1,4 +1,4 @@
-# Principio de Abierto/Cerrado  
+# Principio de Abierto/Cerrado  (OCP)
 Este principio refiere que los modulos deben ser abiertos para su extension, donde el comportamiento del módulo puede extenderse y ampliarlo con nuevos comportamientos, pero cerrados para su modificación, ya que si se dispone de una interface estable y bien definida, no deberiamos de modificarla.  
 En nuestro sistema, la clase Obra Social, determina si la obra social cubre la consulta con el especialista.
 
