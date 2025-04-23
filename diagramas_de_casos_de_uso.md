@@ -15,7 +15,8 @@
 * [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/14-y1xi9gNYDkYcajpgRZRA-9SSZg4aDG/view?usp=sharing)
  ![Caso Historial Especialista](https://github.com/user-attachments/assets/636de1de-7dc1-41a5-8f35-43533dc5419f)
 
-* [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/1MM-_3q9_Fl9HAq4J0jQ_5omsgHcM42d1/view?usp=sharing)  
-  ![Caso Cancelar Turno](https://github.com/user-attachments/assets/3febd67f-6eae-499a-823a-19324191c1b8)
+* [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/1vAZCI8RlNQIck0emM84glF7SDGEejB0d/view?usp=sharing)  
+  ![Caso Cancelar Turno](https://github.com/user-attachments/assets/ce6f1f16-816c-49c5-b86b-1bd961067a85)
+
   
  
