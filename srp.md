@@ -4,7 +4,7 @@ Por ejemplo, en nuestro sistema la clase recepcionista tiene mas de una responsa
 
 ## Motivación
 En nuestro Sistema de Turnos, en la clase Recepcionista mencionamos cuatro responsabilidades, "Registrar paciente", "Registrar medico", "Agendar turno" y "Cancelar turno", si en un futuro deseamos quitarle la responsabilidad de Registrar medico, y Registrar paciente, deberiamos realizar dicha modificación en la clase principal, lo que generaria trastornos.  
-Un ejemplo del mundo real podemos mencionar a un encargado de edificio. El mismo puede estar encargado de la limpieza de la edificación, de los arreglos internos y de cobrar las expensas a los vecinos del edificio. Aquí, existe mas de una razón para cambiar, ya que se puede contratar una persona para las finanzas y que ésta sea la encargada de cobrar las expensas, o se contrata a una persona que realice los arreglos internos, ya debemos modificar por varias razones la clase principal de EncargadoDeEdificio.  
+Un ejemplo del mundo real podemos mencionar que en el Centro de Salud, se creo un sistema donde cada persona debe registrarse por sì sola. Una vez en el centro la recepcionista solo hace que la persona escanee un codigo QR que lo redirige a la pagina de registraciòn. 
 
 ## Estructura de clases  
 ![SRP](https://github.com/user-attachments/assets/02e704c8-4b91-458a-925a-5796f4e801cf)  
