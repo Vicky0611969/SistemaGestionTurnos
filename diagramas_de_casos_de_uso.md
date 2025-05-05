@@ -11,8 +11,10 @@
 
       
 
-* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/12sbOE9fYkvWZwHGKN-vQE6kmoU0G36Wh/view?usp=sharing)  
- ![Caso Historial Paciente](https://github.com/user-attachments/assets/15908a1d-cb3f-4103-a315-9abe678e2082)
+* [Caso de Uso 3 - Historial Turnos Paciente](https://drive.google.com/file/d/1kOrTnr4wHwKVIfievW0MUEdvGwCFKRzP/view?usp=sharing)  
+
+![Caso Historial Paciente](https://github.com/user-attachments/assets/93ea0586-8487-4430-abd3-03eb4a6b3236)
+
 
   
 * [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/14-y1xi9gNYDkYcajpgRZRA-9SSZg4aDG/view?usp=sharing)
