@@ -8,8 +8,9 @@ Un ejemplo de la vida real, puede ser que nuestro centro de salud, desea enviar 
 
 ## Estructura de clases
 
-![LSP](https://github.com/user-attachments/assets/03e31a2f-9267-4fca-85b7-03f2868b7d5e)    
-[LSP](https://drive.google.com/file/d/1BrE78pC0ZBtBPN-36rxTq8uImEq6D-WU/view?usp=sharing)
+![LSP](https://github.com/user-attachments/assets/c9cb47e4-c382-4138-9f9f-f3f38cc193ab)
+  
+[LSP](https://drive.google.com/file/d/1dUAqkJdo--am0wW_ugP5os1rZu7ja25R/view?usp=sharing)
 
 
 
