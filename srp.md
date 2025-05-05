@@ -7,8 +7,9 @@ En nuestro Sistema de Turnos, en la clase Recepcionista mencionamos cuatro respo
 Un ejemplo del mundo real podemos mencionar que en el Centro de Salud, implemento un sistema donde cada paciente y medico se registra por si solo, escaneando un codigo QR que lo redirige a la pagina web del centro. Por lo tanto, la recepcionista ya no debe registrarlos. 
 
 ## Estructura de clases  
-![SRP](https://github.com/user-attachments/assets/02e704c8-4b91-458a-925a-5796f4e801cf)  
-[SRP](https://drive.google.com/file/d/17uYyJn_6kcsq2r6DFEjtZc7SG9PZx7cU/view?usp=sharing)
+![SRP](https://github.com/user-attachments/assets/3d6d94ec-d398-4135-9466-aadf82bac494)
+ 
+[SRP](https://drive.google.com/file/d/1aP4NKlMW9R5s14P8odXsWOXph1ACaUAt/view?usp=sharing)
 
 
 
