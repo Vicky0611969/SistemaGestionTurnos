@@ -15,9 +15,9 @@
 ![Caso Historial Paciente](https://github.com/user-attachments/assets/6bc1f23d-f083-4bc6-a63f-80715c90ffcf)
 
 
-* [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/1koiCJbkSvh8Y6IV3mKdFMIjzd_DWX03k/view?usp=sharing)
+* [Caso de Uso 4 - Historial Turnos Especialista](https://drive.google.com/file/d/1v00D8-2v1S5ceMOnBRRiZNOXtZDG7QEs/view?usp=sharing)
 
- ![Caso Historial Especialista](https://github.com/user-attachments/assets/b96a80d6-bdb1-404d-8d98-18aaeac964ea)
+ ![Caso Historial Especialista](https://github.com/user-attachments/assets/233b0d3b-327a-479a-aca6-7fbb97704488)
 
 
 * [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/1SNMJac_G4UKGKSxhqVnSb6o4O7zWPIxN/view?usp=sharing)
