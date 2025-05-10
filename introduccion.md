@@ -87,7 +87,7 @@ Se debe contener la información de paciente y medico con acceso solo a personal
 ■ Actor(es): Medico  
 ■ Descripción: El especialista desea consultar los turnos que le fueron solicitados   
 ■ Flujo principal de eventos:  
-    a) El medico ingresa al sistema          
+    a) El medico ingresa al sistema            
     b) El medico se digire a la opcion de ingreso como especialista  
     c) Coloca sus datos de ingreso    
     d) Ingrese a la sección de su agenda    
