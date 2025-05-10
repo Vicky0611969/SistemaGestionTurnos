@@ -1,8 +1,8 @@
 ## Diagramas de Casos de Uso
 
-*  [Caso de Uso 1 - Registrar Paciente](https://drive.google.com/file/d/1k1gRxatFoBbhPFLCf7UbYf0J7kvovEf3/view?usp=sharing)
+*  [Caso de Uso 1 - Registrar Paciente](https://drive.google.com/file/d/1LyuldfAB6SxB1-o-1SLst6U1dSfW47-A/view?usp=sharing)
   
- ![Caso Registrar Paciente](https://github.com/user-attachments/assets/b4f951a9-2e9d-4237-914a-8a3c25662eb6)
+![Caso Registrar Paciente](https://github.com/user-attachments/assets/47347949-d465-4c15-a4b7-508ee5ef12d3)
 
 
 * [Caso de Uso 2 - Solicitar Turno](https://drive.google.com/file/d/1QMjpwHuBZ9cBrLDxvw0zdefTgkXFFrIx/view?usp=sharing)
