@@ -22,9 +22,10 @@
 
 
 
-* [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/15BOL8j7oezxjNXG_GsrbgcJ4ylNhbtlL/view?usp=sharing)
+* [Caso de Uso 5 - Cancelar Turno](https://drive.google.com/file/d/1kck1OHigK0xSh3zyWJzUzEuctsKX_PEK/view?usp=sharing)
 
-![Caso Cancelar Turno](https://github.com/user-attachments/assets/9457242d-f7cf-4cf1-9244-4ca8b1eaa335)
+![Caso Cancelar Turno](https://github.com/user-attachments/assets/10f9d7bb-37d4-4c15-bb6f-bbb41bba398c)
+
 
 
 
