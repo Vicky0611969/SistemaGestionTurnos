@@ -1,4 +1,4 @@
-+ Diagrama de Secuencias - Registrar Paciente - [Registro exitoso nuevo paciente](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=1112512316#gid=1112512316)
++ Diagrama de Secuencias - Registrar Paciente - [Registro exitoso nuevo paciente](https://drive.google.com/file/d/1Tuk3oZSQi5A4j6nkfm9mJ-e5F7t1sENr/view?usp=sharing)
     
 + Diagrama de Secuencias - Solicitar turno - [Solicitud de turno exitoso](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=1069444746#gid=1069444746)  
     
