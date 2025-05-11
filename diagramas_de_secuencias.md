@@ -1,9 +1,9 @@
 + Diagrama de Secuencias - Registrar Paciente - [Registro exitoso nuevo paciente](https://drive.google.com/file/d/1Tuk3oZSQi5A4j6nkfm9mJ-e5F7t1sENr/view?usp=sharing)
     
-+ Diagrama de Secuencias - Solicitar turno - [Solicitud de turno exitoso](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=1069444746#gid=1069444746)  
++ Diagrama de Secuencias - Solicitar turno - [Solicitud de turno exitoso](https://drive.google.com/file/d/1dA6Ox5xigHdvtvTzbn4DTiKQxCaHkV3Q/view?usp=sharing)  
     
-+ Diagrama de Secuencias - Consultar historial de turnos del paciente - [Consulta exitosa](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=1880662703#gid=1880662703)
++ Diagrama de Secuencias - Consultar historial de turnos del paciente - [Consulta exitosa](https://drive.google.com/file/d/17VQY_Gkf4YFiMjKtWYob8v1TcsijYht3/view?usp=sharing)
   
-+ Diagrama de Secuencias - Consultar agenda de turnos del especialista - [Consulta exitosa](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=709238774#gid=709238774)
++ Diagrama de Secuencias - Consultar agenda de turnos del especialista - [Consulta exitosa](https://drive.google.com/file/d/1VyWMwMIFnfntPgPre8agA7OsiEyuqpiA/view?usp=sharing)
   
-+ Diagrama de Secuencias - Cancelar turno - [Cancelacion exitosa](https://docs.google.com/spreadsheets/d/14RQ9Zl-nh8kN5f94VPZwIdC9miSWziCv/edit?gid=820161079#gid=820161079)  
++ Diagrama de Secuencias - Cancelar turno - [Cancelacion exitosa](https://drive.google.com/file/d/1FeYKtOWRXMuuCKPgVri3POGIplcGucGA/view?usp=sharing)  
