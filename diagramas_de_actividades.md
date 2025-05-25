@@ -8,4 +8,4 @@
 
 + Diagrama de Actividad - [Historial Turnos Especialista](https://drive.google.com/file/d/1j3dOd_qtC7YGpAhD5c8M-7kpAFTV73WF/view?usp=sharing)
 
-+ Diagrama de Actividad - [Cancelar Turno](https://drive.google.com/file/d/1ssk5xLaX4ZbKaESOdvnx9T_VoRQMZjXP/view?usp=sharing)
++ Diagrama de Actividad - [Cancelar Turno](https://drive.google.com/file/d/1Q82H8-P0_ZpmOGpiGZvb7NHxikeqJ33L/view?usp=sharing)
