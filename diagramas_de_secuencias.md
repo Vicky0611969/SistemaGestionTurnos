@@ -1,3 +1,5 @@
+# Diagramas de Secuencias
+
 + Diagrama de Secuencias - Registrar Paciente - [Registro exitoso nuevo paciente](https://drive.google.com/file/d/1Tuk3oZSQi5A4j6nkfm9mJ-e5F7t1sENr/view?usp=sharing)
     
 + Diagrama de Secuencias - Solicitar turno - [Solicitud de turno exitoso](https://drive.google.com/file/d/1dA6Ox5xigHdvtvTzbn4DTiKQxCaHkV3Q/view?usp=sharing)  
