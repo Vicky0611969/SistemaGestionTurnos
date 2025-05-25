@@ -4,7 +4,7 @@
 
 + Diagrama de Actividad - [Solicitar Turno](https://drive.google.com/file/d/14oYqVyyWPR23XOGRjEzrGtNRdVNO_BR4/view?usp=sharing)
 
-+ Diagrama de Actividad - [Historial Turnos Paciente](https://drive.google.com/file/d/1m2yFbHeNHwdqM35Ps1rQPeKU2RfrHIQs/view?usp=sharing)
++ Diagrama de Actividad - [Historial Turnos Paciente](https://drive.google.com/file/d/1LT3iP3O55vZb_JLjV8l1KieWoXGVj5pY/view?usp=sharing)
 
 + Diagrama de Actividad - [Historial Turnos Especialista](https://drive.google.com/file/d/1fmGVa0GyJOotYdIHCWWI6y46CmObh4Yw/view?usp=sharing)
 
