@@ -2,7 +2,7 @@
 
 + Diagrama de Actividad - [Registrar Paciente](https://drive.google.com/file/d/1GlHSiBGSnMXJJ90ABOB9gB6d1cYDMQ1e/view?usp=sharing)
 
-+ Diagrama de Actividad - [Solicitar Turno](https://drive.google.com/file/d/1Sd9XPWcAwYIQDrLi-URdW5bM7U3_GDx0/view?usp=sharing)
++ Diagrama de Actividad - [Solicitar Turno](https://drive.google.com/file/d/14oYqVyyWPR23XOGRjEzrGtNRdVNO_BR4/view?usp=sharing)
 
 + Diagrama de Actividad - [Historial Turnos Paciente](https://drive.google.com/file/d/1m2yFbHeNHwdqM35Ps1rQPeKU2RfrHIQs/view?usp=sharing)
 
