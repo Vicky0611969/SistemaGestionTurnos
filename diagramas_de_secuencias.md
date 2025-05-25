@@ -8,4 +8,4 @@
   
 + Diagrama de Secuencias - Consultar agenda de turnos del especialista - [Consulta exitosa](https://drive.google.com/file/d/1jCc6f_uMH30irxFqrdcH30iu4Ih_pIJE/view?usp=sharing)
   
-+ Diagrama de Secuencias - Cancelar turno - [Cancelacion exitosa](https://drive.google.com/file/d/1FeYKtOWRXMuuCKPgVri3POGIplcGucGA/view?usp=sharing)  
++ Diagrama de Secuencias - Cancelar turno - [Cancelacion exitosa](https://drive.google.com/file/d/1ye6spip-RewnqtBgxyQc_4AXVgNhcLox/view?usp=sharing)  
