@@ -1,4 +1,4 @@
-# Aplicacion de Patron de Diseño estructural - Nombre patron elegido
+# Aplicacion de Patron de Diseño de comportamiento - Nombre patron elegido
 
 ## Motivación
 
