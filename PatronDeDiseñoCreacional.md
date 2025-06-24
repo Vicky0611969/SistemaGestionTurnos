@@ -10,7 +10,7 @@ Las clases implementadas son el Producto interfaz, que en nuestro caso seria IPr
 ## Estructura de Clases
 ![Patron Factory](https://github.com/user-attachments/assets/c53fd822-cf9c-475c-ac8f-7af57d9d6380)
 
-[Patron Factory](https://drive.google.com/file/d/12C6U1ze_WPSeH8dh97WdoLF5G0WzcMIC/view?usp=sharing)
+[Factory Method](https://drive.google.com/file/d/12C6U1ze_WPSeH8dh97WdoLF5G0WzcMIC/view?usp=sharing)
 
 
 
