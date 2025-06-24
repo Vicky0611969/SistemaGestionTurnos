@@ -7,3 +7,5 @@ En el sistema actual, la asignacions, cancelación o modificación de turnos pod
 Al utilizar el patrón Observer, se define una interfaz Observador turno, que será implementada por todas las clases que deban reaccionar ante un cambio en los turnos; se crea una clase GestorTurno, el sujeto, que gestiona la logica principal de los turnos y notifica a todos los observadores suscriptos; y se definen esos múltiples observadores tales como NotificadorPaciente, ActualizadorAgendaEspecialista, RegistrarHistorial, que reaccionan automaticamente cuando se prodece un cambio de estado en un turno. 
 
 ## Estructura de Clases
+![Observer](https://github.com/user-attachments/assets/69c2e971-d4a4-4763-99be-a2255494531e)
+[Observer](https://drive.google.com/file/d/1JCk7v4Pz8-CTb0GYXVk9tWfcWl1RMeFx/view?usp=sharing)
