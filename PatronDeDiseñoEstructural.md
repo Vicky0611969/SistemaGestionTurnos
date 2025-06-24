@@ -9,3 +9,6 @@ Gracias a ello, la clase Recepcionista puede delegar todas las acciones operativ
 Las clases incorporadas son SistemaAdministradorFacade, cumpliendo el rol de fachada, que ofrece una interfaz unificada para operaciones del sistema; los subsistemas SistemaRegistro que encapsula la logica relacionada con el alta de pacientes, y GestorTurno que encapsula la logica para la creacion y gestion de turnos, y las entidades Paciente, Medico que participan en las operaciones coordinadas por los subsistemas. 
 
 ## Estructura de Clases
+
+![Facade](https://github.com/user-attachments/assets/4b877706-16dd-437d-8fb8-46e87f586244)
+[Facade](https://drive.google.com/file/d/1USa0LKkaOpINL8AVeP2YZpq_w_8x7nBH/view?usp=sharing)
