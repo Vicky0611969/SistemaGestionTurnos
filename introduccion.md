@@ -15,7 +15,7 @@ Proceso de ocultar la implementación interna de un objeto y exponer sólo las i
 Ejemplo: El usuario solo accede al control remoto y TV, no puede acceder a la estructura interna de los dispositivos.    
 
 ### * Abstracción:
-Consiste en simplificar la complejidad del munfo real modelando solo los aspectos esenciales relevantes para el sistema  
+Consiste en simplificar la complejidad del mundo real modelando solo los aspectos esenciales relevantes para el sistema  
 Ejemplo: El usuario no necesita saber como funciona internamente la TV o el control, solo interactua con ellos para manejar dicha TV.  
 
 ### * Herencia:
