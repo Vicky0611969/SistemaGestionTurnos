@@ -8,9 +8,9 @@ Por lo tanto, se definió una interfaz IPrepaga que es implementada por todas la
 Las clases implementadas son el Producto interfaz, que en nuestro caso seria IPrepaga, que es comun para todas las prepagas que utilizaremos; la clase productos concretos serian las prepagas implementadas; la clase creador abstracto, es quella que define la implementacion de las prepagas, que retorna nuestra interfaz; y las clases creadores concretos que implementan el creador abstracto para devolver una instancia de su prepaga correspondiente.
 
 ## Estructura de Clases
-![Patron Factory](https://github.com/user-attachments/assets/c53fd822-cf9c-475c-ac8f-7af57d9d6380)
+![Patron Factory](https://github.com/user-attachments/assets/2ab91cbe-1139-4a69-ad98-3e534c813eb0)  
 
-[Factory Method](https://drive.google.com/file/d/12C6U1ze_WPSeH8dh97WdoLF5G0WzcMIC/view?usp=sharing)
+[Factory Method](https://drive.google.com/file/d/1y2T-hKxmtWVyporq7mbJgesmxgfs0hpt/view?usp=sharing)
 
 
 
