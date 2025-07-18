@@ -10,5 +10,5 @@ Las clases incorporadas son SistemaAdministradorFacade, cumpliendo el rol de fac
 
 ## Estructura de Clases
 
-![Facade](https://github.com/user-attachments/assets/4b877706-16dd-437d-8fb8-46e87f586244)
-[Facade](https://drive.google.com/file/d/1USa0LKkaOpINL8AVeP2YZpq_w_8x7nBH/view?usp=sharing)
+![Facade](https://github.com/user-attachments/assets/6b4ad5b1-8879-4333-951e-5bab5f282ae9) 
+[Facade](https://drive.google.com/file/d/1BHD2xY_EBOMlYJt3gK5eXYlhsydvSjbt/view?usp=sharing)
