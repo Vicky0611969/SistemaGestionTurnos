@@ -12,6 +12,6 @@ Esto refleja el encapsulamiento porque oculta los atributos de la cobertura méd
 private String obraSocial;  
 public String getObraSocial(){  
      return obraSocial;  
-}
+}     
 Este fragmento demuestra encapsulamiento porque el atributo obraSocial es privado, no puede ser accedido directamente desde otras clases. Se utiliza un metodo publico getter getObraSocial() para permitir el acceso a su valor.  
 Este diseño protege la integridad de los daots internos de la clase, evita accesos no autorizados o modificaciones indebidas y cumple el principio de ocultar la implementacion interna y solo exponer lo necesario.
