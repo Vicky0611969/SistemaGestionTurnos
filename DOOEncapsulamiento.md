@@ -1,4 +1,5 @@
 # Encapsulamiento
-Es el proceso de ocultar la implementación interna de un objeto y exponer sólo las intefaces públicas. Esto permite que los objetos mantengan su estado interno protegido de accesos no autorizados, promoviendo así la modularidad y la seguridad del sistema.
+El encapsulamiento es un principio el cual consiste en ocultar los detalles internos de una clase y exponer solo los necesarios a traves .  
+
 ## Ejemplo en el proyecto
 ## Ejemplo en código
