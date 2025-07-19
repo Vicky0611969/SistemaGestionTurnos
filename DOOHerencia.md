@@ -9,3 +9,13 @@ Se lo puede relacion con el Principio Sustitución de Liskov, ya que las subclas
 El diagrama muestra que las clases Paciente y Medico son tipos de persona. La clase Persona define los atributos y metodos comunes que son compartidos por las subclases evitando duplicidad de código. Cada subclase extiende el comportamiento de Persona agregado sus atributos y responsabilidades especificas. 
 
 ## Ejemplo en código
+public class Persona{  
+    String nombre;  
+}  
+public class Paicente extends Persona{  
+int dni;  
+}  
+public class Medico extends Persona{  
+int matricula;  
+}  
+Paciente y Medico heredan de Persona, por lo que ambas clases tienen el atributo nombre sin necesidad de declararlo de nuevo. Cada una agrega su propio atributo, ejemplo dni y matricula, mostrando como la herencia permite reutilizar codifo común y extender con caracteristicas especificas. 
