@@ -5,4 +5,7 @@ Podemos decir que se relaciona con el Principio de Responsabilidad Única, ya qu
 
 ## Ejemplo en el Proyecto
 ![Abstraccion](https://github.com/user-attachments/assets/ba7b355a-59c2-4071-bee7-b659bd788f11)
-[Abstraccion](https://drive.google.com/file/d/1Gi27pQN3YWjDA5SK2Mj1WQCnCXDiYr_y/view?usp=sharing)  
+[Abstraccion](https://drive.google.com/file/d/1Gi27pQN3YWjDA5SK2Mj1WQCnCXDiYr_y/view?usp=sharing)    
+
+En el diagrama se observa que la clase Persona representa una abstraccion general de todas la personas del sistema. Contiene atributos y mètodos comunes, y no se implementa por sí sola, sino que las clases medico y Paciente heredan de ella y agregan sus características especificas.
+Estas clases aplican abstracción porque modelan solo los aspectos esenciales de las personas el sistema. La clase Persona define lo general y sus subclases implementan lo particular, reduciendo la duplicación de código y simplificando el diseño, lo que facilita el mmantenimiento y extension del sistema de turnos.
