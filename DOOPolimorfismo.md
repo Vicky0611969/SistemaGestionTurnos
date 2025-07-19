@@ -24,3 +24,4 @@ String solicitarRegistrarse() {
 return "Registro paciente";  
 }  
 }  
+Este fragmento aplica el fundamiento del polimorfismo proque define una clase base Persona con un metodo comun solicitarRegistrarse(), que es sobreescrito por las subclases Medico y Paciente para ofrecer comportamientos especificos. De este modo, aunque todas las subclases comparten la misma interfaz (el método), cada una implementara su versión adaptada a sus necesidades. Esto permite que, al usar una referencia de tipo Persona, se pueda llamar al mismo metodo y obtener resultados distintos segun el tipo real del objeto en tiempo de ejecución, sin necesidad de conocer los detalles internos de cada clase. 
